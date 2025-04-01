@@ -2,7 +2,7 @@ import discord
 import os
 from discord.ext import commands
 # Setup the bot
-TOKEN = "DISCORD_BOT_TOKEN"  # Get token from environment variable
+TOKEN = os.getenv("DISCORD_BOT_TOKEN")  # Get token from environment variable
 intents = discord.Intents.default()
 intents.messages = True  # This ensures the bot can read messages
 intents.message_content = True  # This is the key fix!
