@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.messages = True  # This ensures the bot can read messages
 intents.message_content = True  # This is the key fix!
 
-bot = commands.Bot(command_prefix="..", intents=intents)
+bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Pre-coded links dictionary
 links = {
