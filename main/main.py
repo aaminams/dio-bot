@@ -11,6 +11,7 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Pre-coded links dictionary
 links = {
+    "dontkys2":"https://cdn.discordapp.com/attachments/445550268306948096/1356986746033672292/20250311_183926.jpg?ex=67ee8fe3&is=67ed3e63&hm=8bdce3e6b4b682778536676b930cebd13242dc52c8f91602e29320e99513bc5d&",
     "yoshida":"https://cdn.discordapp.com/attachments/445550268306948096/1356957783072968724/GU5BSETX0AA_4pL.jpg?ex=67ee74ea&is=67ed236a&hm=28ca04ae214787ab807d64eebe9b1267aed788e79929e88ef5fdc14251d1bb1e&",
     "daddy":"https://cdn.discordapp.com/attachments/445550268306948096/1356930534126911558/GbYxiu_WoAAic3R.jpg?ex=67ee5b89&is=67ed0a09&hm=1acf31cb6fc216cadacdb48fc7dc1cafa3483300bbb11b8999c0c19d9444409d&",
     "vomit":"https://tenor.com/view/ken-kaneki-tokyo-ghoul-vomit-burger-food-gif-17905994",
