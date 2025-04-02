@@ -11,6 +11,8 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Pre-coded links dictionary
 links = {
+    "daddy":"https://cdn.discordapp.com/attachments/446620239837265920/1356610949783486465/20250401_121404.jpg?ex=67ed31e7&is=67ebe067&hm=3b76a1ae7bc9d130e17b6fcba33887a062908e24cacfb5c211d3ca29973c9d95&",
+    "vomit":"https://tenor.com/view/ken-kaneki-tokyo-ghoul-vomit-burger-food-gif-17905994",
     "bts":
     "https://cdn.discordapp.com/attachments/446620239837265920/1356609214201467125/20250401_180616.jpg?ex=67ed3049&is=67ebdec9&hm=b9f3363d4fbee4f37881114541f6e1e733a6e5f1ad1276691dc940f34cbcdeb6&",
     "gn":
