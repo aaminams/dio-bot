@@ -11,6 +11,9 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Pre-coded links dictionary
 links = {
+    "dog":"https://tenor.com/view/treyreloaded-gif-25522323",
+    "sad":"https://tenor.com/view/crying-upset-old-man-gif-7407103167577610642",
+    "duck":"https://tenor.com/view/klasik-clasik-clasic-gif-25398314",
     "kick":"https://tenor.com/view/jojo-jojo-part5-narancia-abbacchio-mista-gif-13734813",
     "ass":"https://cdn.discordapp.com/attachments/445550268306948096/1359112272118681600/RDT_20250408_1346566179949040092735955.jpg?ex=67f64b70&is=67f4f9f0&hm=0ec7d7047cd87e37e9e86f3fd5165897e274ce79d09d90b03a913bdc5e8fade2&",
     "dontkys2":"https://cdn.discordapp.com/attachments/445550268306948096/1356986746033672292/20250311_183926.jpg?ex=67ee8fe3&is=67ed3e63&hm=8bdce3e6b4b682778536676b930cebd13242dc52c8f91602e29320e99513bc5d&",
