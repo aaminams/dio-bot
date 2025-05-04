@@ -11,7 +11,6 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Pre-coded links dictionary
 links = {
-
     "gratz":"https://cdn.discordapp.com/attachments/445550268306948096/1368586759444631573/img-171863525723845cec343gy1hqsl72qz0zg208w06o7nm.gif?ex=6818c33e&is=681771be&hm=3f7b98c1ea70c2b82f29aca4bddc2fde5da1ebfca2b1714ee1c99f8cb381b21f&",
     "alpha":"https://cdn.discordapp.com/attachments/445550268306948096/1367511727876476959/tenor-1.gif?ex=6814da0b&is=6813888b&hm=9400dedeb8700e7498254cb837d82d6532b886b1b29d5658a9b19f5c1f91dd35&",
     "speed":"https://tenor.com/view/ishowspeed-try-not-to-laugh-gif-7682731162751353849",
@@ -43,7 +42,7 @@ links = {
 "dontkys":"https://cdn.discordapp.com/attachments/445550268306948096/1356636884981383218/20241129_201139.jpg?ex=67ed4a0e&is=67ebf88e&hm=5e1487345f189d87bda36b6f9f05436ea2e69b712d80e6005f857ebfce080b2d&",
 "postnut":"https://cdn.discordapp.com/attachments/445550268306948096/1356637022433050644/20241013_195925.jpg?ex=67ed4a2f&is=67ebf8af&hm=63205130e766b476031bce18d60f7d0530919157e621cc7471f61322cb911496&",
 "gomen":"https://cdn.discordapp.com/attachments/445550268306948096/1356637023049617580/20241104_202250.jpg?ex=67ed4a2f&is=67ebf8af&hm=237c7d38fa6cb6d1b79a5c56a16f3e4c9a15555735f5392b2994cff7e79c19f4&",
-"shady","https://tenor.com/view/quingifs-stan-twitter-mannequinney-toxiqueney-laughing-gif-12958745041655721547",
+"shady":"https://tenor.com/view/quingifs-stan-twitter-mannequinney-toxiqueney-laughing-gif-12958745041655721547",
 
 }
 
