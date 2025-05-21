@@ -1,0 +1,7 @@
+{
+  "build": [
+    "pip install --upgrade pip setuptools wheel",
+    "pip install ."
+  ],
+  "start": "python main.py"
+}
